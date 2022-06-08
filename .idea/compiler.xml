@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine1.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Comments-The_countdown.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Comments-Theory.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Animal.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="Coffee_Machine1.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Coffee_Machine1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
